@@ -1,0 +1,14 @@
+[
+  { "id": 1,  "name": "Rubber Hex Dumbbell Set (5–50 lb)", "category": "dumbbells", "price": 249.99, "image": "images/dumbbells.svg", "description": "Pairs from 5 to 50 lb with knurled chrome handles and low-bounce rubber heads that protect your floor." },
+  { "id": 2,  "name": "Adjustable Dumbbell Pair (55 lb)",  "category": "dumbbells", "price": 329.00, "image": "images/dumbbells.svg", "description": "Dial-a-weight system swaps 15 dumbbells for 2, saving space without breaking your set." },
+  { "id": 3,  "name": "Vinyl Dumbbell Set (2–20 lb)",       "category": "dumbbells", "price": 89.99,  "image": "images/dumbbells.svg", "description": "Lightweight vinyl-coated pairs, ideal for warm-ups, rehab work, and high-rep conditioning." },
+  { "id": 4,  "name": "Flat/Incline/Decline Bench",         "category": "benches",   "price": 219.00, "image": "images/bench.svg",     "description": "7-position backrest and 3-position seat rated to 600 lb for stable heavy pressing." },
+  { "id": 5,  "name": "Foldable Utility Bench",              "category": "benches",   "price": 129.99, "image": "images/bench.svg",     "description": "Folds flat for storage without sacrificing stability under load." },
+  { "id": 6,  "name": "Olympic Weight Bench with Rack",       "category": "benches",   "price": 349.00, "image": "images/bench.svg",     "description": "Integrated barbell rack and leg-developer attachment for a full pressing station." },
+  { "id": 7,  "name": "Folding Treadmill",                    "category": "cardio",    "price": 599.00, "image": "images/cardio.svg",    "description": "12 incline levels and a shock-absorbing deck built for daily mileage." },
+  { "id": 8,  "name": "Magnetic Rowing Machine",               "category": "cardio",    "price": 449.00, "image": "images/cardio.svg",    "description": "Whisper-quiet magnetic resistance with a smooth 16-level ladder." },
+  { "id": 9,  "name": "Indoor Cycling Bike",                   "category": "cardio",    "price": 379.00, "image": "images/cardio.svg",    "description": "Belt-driven flywheel with a heavy-duty frame for standing sprints." },
+  { "id": 10, "name": "Lifting Belt (Leather)",                "category": "accessories", "price": 44.99, "image": "images/accessories.svg", "description": "4-inch leather belt for bracing on squats, deadlifts, and overhead presses." },
+  { "id": 11, "name": "Resistance Band Set (5-pack)",           "category": "accessories", "price": 24.99, "image": "images/accessories.svg", "description": "Graduated bands from light to heavy for warm-ups, assistance work, and travel training." },
+  { "id": 12, "name": "Gym Chalk Block (6-pack)",               "category": "accessories", "price": 12.99, "image": "images/accessories.svg", "description": "Magnesium carbonate blocks that keep your grip locked in on heavy pulls." }
+]

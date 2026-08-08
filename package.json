@@ -1,0 +1,15 @@
+{
+  "name": "fitfuel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FitFuel — gym equipment e-commerce catalog capstone project",
+  "scripts": {
+    "build": "node build.js",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "terser": "^5.0.0",
+    "clean-css-cli": "^5.0.0",
+    "html-minifier-terser": "^7.0.0"
+  }
+}
