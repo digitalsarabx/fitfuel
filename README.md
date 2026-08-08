@@ -100,3 +100,8 @@ vercel --prod dist
 Both platforms serve `dist/` as a static site; `netlify.toml` is already
 configured to redirect all routes to `index.html` so hash-based navigation
 and page refreshes on `#/products` etc. work correctly.
+
+
+## Live Demo
+
+https://fitfuelecom.netlify.app/
